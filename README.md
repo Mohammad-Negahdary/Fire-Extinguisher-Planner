@@ -22,8 +22,8 @@ This tool simplifies the complex process of calculating travel distances, hazard
 Since this is a standalone application, no installation is required.
 
 1.  Go to the right sidebar.
-2.  Download the latest `.exe` file (e.g., `FirePlanner_v1.0.exe`).
-3.  Run the file directly on your Windows computer.
+2.  Download the latest `.exe` file.
+3.  Run and install the file directly on your Windows computer.
 
 ## ⚠️ License & Terms of Use
 
@@ -60,7 +60,7 @@ Since this is a standalone application, no installation is required.
 
 1.  از منوی سمت راست همین صفحه، وارد بخش releases شوید.
 2.  آخرین نسخه فایل اجرایی (`.exe`) را دانلود کنید.
-3.  برنامه را اجرا کنید.
+3.  برنامه را اجرا و در کامپیوتر خود نصب کنید.
 
 ## ⚠️ قوانین استفاده (لایسنس)
 
