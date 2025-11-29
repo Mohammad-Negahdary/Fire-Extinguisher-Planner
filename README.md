@@ -21,7 +21,7 @@ This tool simplifies the complex process of calculating travel distances, hazard
 
 Since this is a standalone application, no installation is required.
 
-1.  Go to the right sidebar.
+1.  Go to the Releases at the right sidebar.
 2.  Download the latest `.exe` file.
 3.  Run and install the file directly on your Windows computer.
 
