@@ -2,6 +2,9 @@
 Fire Extinguisher Planner based on NFPA 10
 
 
+https://github.com/user-attachments/assets/4885f58a-e3b8-494b-8b0d-2813f062a580
+
+
 **Fire Extinguisher Planner** is a professional desktop application designed to assist safety engineers, architects, and HSE professionals in the optimal placement and calculation of portable fire extinguishers according to **NFPA 10 (2022 Edition)** standards.
 
 This tool simplifies the complex process of calculating travel distances, hazard levels, and area coverage using a CAD-like drawing interface and automated geometric analysis.
