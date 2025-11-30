@@ -22,8 +22,6 @@ This tool simplifies the complex process of calculating travel distances, hazard
 
 ## 📥 How to Download & Install
 
-Since this is a standalone application, no installation is required.
-
 1.  Go to the Releases at the right sidebar.
 2.  Download the latest `.exe` file.
 3.  Run and install the file directly on your Windows computer.
@@ -58,8 +56,6 @@ Since this is a standalone application, no installation is required.
   * **پشتیبانی از واحدها:** قابلیت کار با هر دو سیستم **متریک** و **امپریال**.
 
 ## 📥 دانلود و نصب
-
-این نرم‌افزار به صورت **Portable (بدون نیاز به نصب)** منتشر شده است.
 
 1.  از منوی سمت راست همین صفحه، وارد بخش releases شوید.
 2.  آخرین نسخه فایل اجرایی (`.exe`) را دانلود کنید.
